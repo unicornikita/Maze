@@ -61,13 +61,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MAINMENU.cs" />
-    <Compile Include="Assets\PauseMenu.cs" />
     <Compile Include="Assets\Prefabs\gamemanager.cs" />
     <Compile Include="Assets\scripts\cameracontroller.cs" />
     <Compile Include="Assets\scripts\EndTrigger.cs" />
     <Compile Include="Assets\scripts\GameTimerScript.cs" />
     <Compile Include="Assets\scripts\LevelComplete.cs" />
+    <Compile Include="Assets\scripts\MAINMENU.cs" />
+    <Compile Include="Assets\scripts\PauseMenu.cs" />
     <Compile Include="Assets\scripts\playerfollower.cs" />
     <Compile Include="Assets\scripts\playermovement.cs" />
     <Compile Include="Assets\scripts\timer.cs" />

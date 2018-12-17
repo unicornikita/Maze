@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-12-17T19:19:51.939+01:00
-  initializedAtString: 2018-12-17T19:19:51.939+01:00
+  lastUpdatedAtString: 2018-12-17T20:50:47.886+01:00
+  initializedAtString: 2018-12-17T20:39:28.045+01:00
   currentGitRemote:
     name: origin
-    url: https://github.com/unicornikita/Unity.git
+    url: https://github.com/unicornikita/Maze.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/unicornikita/Maze.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/unicornikita/Unity.git
+    url: https://github.com/unicornikita/Maze.git
   currentHead: 

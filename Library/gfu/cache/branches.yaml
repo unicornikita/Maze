@@ -13,28 +13,47 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-12-17T19:20:09.714+01:00
-  initializedAtString: 2018-12-17T19:20:09.697+01:00
-  localBranches: []
-  remoteBranches: []
+  lastUpdatedAtString: 2018-12-17T20:50:48.056+01:00
+  initializedAtString: 2018-12-17T20:50:47.901+01:00
+  localBranches:
+  - name: master
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/unicornikita/Unity.git
+    url: https://github.com/unicornikita/Maze.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/unicornikita/Maze.git
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/unicornikita/Maze.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/unicornikita/Unity.git
+      url: https://github.com/unicornikita/Maze.git
